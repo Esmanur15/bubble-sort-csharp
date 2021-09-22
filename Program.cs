@@ -14,9 +14,9 @@ namespace bubble_sort_csharp
                 {
                     if (dizi[j] > dizi[j+1])
                     {
-                        int araciEleman=dizi[j];
+                        int gecici=dizi[j];
                         dizi[j] = dizi[j+1];
-                        dizi[j+1] = araciEleman;
+                        dizi[j+1] = gecici;
                     }
                 }
             }
