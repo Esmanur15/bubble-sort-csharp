@@ -1,0 +1,16 @@
+C:\Users\ESMANUR\OneDrive\Belgeler\GitHub\bubble-sort-csharp\bin\Debug\net5.0\bubble-sort-csharp.exe
+C:\Users\ESMANUR\OneDrive\Belgeler\GitHub\bubble-sort-csharp\bin\Debug\net5.0\bubble-sort-csharp.deps.json
+C:\Users\ESMANUR\OneDrive\Belgeler\GitHub\bubble-sort-csharp\bin\Debug\net5.0\bubble-sort-csharp.runtimeconfig.json
+C:\Users\ESMANUR\OneDrive\Belgeler\GitHub\bubble-sort-csharp\bin\Debug\net5.0\bubble-sort-csharp.runtimeconfig.dev.json
+C:\Users\ESMANUR\OneDrive\Belgeler\GitHub\bubble-sort-csharp\bin\Debug\net5.0\bubble-sort-csharp.dll
+C:\Users\ESMANUR\OneDrive\Belgeler\GitHub\bubble-sort-csharp\bin\Debug\net5.0\ref\bubble-sort-csharp.dll
+C:\Users\ESMANUR\OneDrive\Belgeler\GitHub\bubble-sort-csharp\bin\Debug\net5.0\bubble-sort-csharp.pdb
+C:\Users\ESMANUR\OneDrive\Belgeler\GitHub\bubble-sort-csharp\obj\Debug\net5.0\bubble-sort-csharp.csproj.AssemblyReference.cache
+C:\Users\ESMANUR\OneDrive\Belgeler\GitHub\bubble-sort-csharp\obj\Debug\net5.0\bubble-sort-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESMANUR\OneDrive\Belgeler\GitHub\bubble-sort-csharp\obj\Debug\net5.0\bubble-sort-csharp.AssemblyInfoInputs.cache
+C:\Users\ESMANUR\OneDrive\Belgeler\GitHub\bubble-sort-csharp\obj\Debug\net5.0\bubble-sort-csharp.AssemblyInfo.cs
+C:\Users\ESMANUR\OneDrive\Belgeler\GitHub\bubble-sort-csharp\obj\Debug\net5.0\bubble-sort-csharp.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\OneDrive\Belgeler\GitHub\bubble-sort-csharp\obj\Debug\net5.0\bubble-sort-csharp.dll
+C:\Users\ESMANUR\OneDrive\Belgeler\GitHub\bubble-sort-csharp\obj\Debug\net5.0\ref\bubble-sort-csharp.dll
+C:\Users\ESMANUR\OneDrive\Belgeler\GitHub\bubble-sort-csharp\obj\Debug\net5.0\bubble-sort-csharp.pdb
+C:\Users\ESMANUR\OneDrive\Belgeler\GitHub\bubble-sort-csharp\obj\Debug\net5.0\bubble-sort-csharp.genruntimeconfig.cache
